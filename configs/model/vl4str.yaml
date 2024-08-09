@@ -57,5 +57,5 @@ refine_iters: 1
 # pretrained
 freeze_backbone: false
 freeze_language_backbone: false
-clip_pretrained: /PATH/TO/CLIP/MODEL
+clip_pretrained: /kaggle/working/model.ckpt
 find_unused_parameters: true
